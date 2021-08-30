@@ -1,2 +1,2 @@
 # Ecommerce_page
-This is a practice page for creating a ecommerce website. 
+This is a practice page for creating an Ecommerce website. 
